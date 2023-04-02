@@ -4,6 +4,5 @@
 - 💞️ I’m looking to collaborate on anything interesting
 - 📫 How to reach me: You can email me at gyryknotgirik@gmail.com
 
-I work on projects of all sorts and I'm always open to new opportunities
-
-I don't really have many public projects at the moment but I'll fix that shortly
+I work on projects of all sorts and I'm always open to new opportunities  
+I don't really have many public projects at the moment but I'll fix that
