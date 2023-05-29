@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @Gyryk
 - 👀 I’m interested in Computer Science and I've mainly been doing Games Development
-- 🌱 I’m currently learning Machine Learning and stuff
-- 💞️ I’m looking to collaborate on anything interesting
+- 🌱 I’m currently learning Machine Learning and ANNs
+- 💞️ I’m looking to collaborate on pretty much anything interesting
 - 📫 How to reach me: You can email me at gyryknotgirik@gmail.com
 
-#### I work on projects of all sorts and I'm always open to new opportunities  
-#### I don't really have many public projects at the moment but I'll fix that :)
+#### I work on projects of all sorts in various languages, and I'm always open to new opportunities for collaborations
+#### I don't really have many public projects at the moment, but I'll fix that soon enough :)
 
-### If you wanna learn more about me, you can do so at gyryk.github.io/me
+### If you wanna learn more about me, you can do so [here](gyryk.github.io/me)
