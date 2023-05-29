@@ -7,4 +7,4 @@
 #### I work on projects of all sorts in various languages, and I'm always open to new opportunities for collaborations
 #### I don't really have many public projects at the moment, but I'll fix that soon enough :)
 
-### If you wanna learn more about me, you can do so [here](https://gyryk.github.io/me)
+[More about me!](https://gyryk.github.io/me)
