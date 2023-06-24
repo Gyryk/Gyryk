@@ -9,4 +9,4 @@
 - I work on projects of all sorts in various languages, and I'm always open to new opportunities for collaboration <br>
 - I know that I don't have a lot of public projects up right now, but I swear that isn't going to last very long <br>
 
-### &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; [More about me!](https://gyryk.github.io/me) &emsp;&emsp;&emsp;&emsp; [My portfolio!](https://gyryk.github.io/projects)
+### &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; [More about me!](https://gyryk.github.io/me) &emsp;&emsp;&emsp;&emsp; [My portfolio!](https://gyryk.github.io/projects)
