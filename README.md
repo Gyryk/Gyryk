@@ -11,5 +11,6 @@
 
 ### 
 <div align="center">
+    <a href="www.gyryk.com">More about me!</a><a href="projects.gyryk.com">My projects!</a>
     [More about me!](www.gyryk.com) &emsp;&emsp;&emsp;&emsp; [My portfolio!](projects.gyryk.com)
 </div>
