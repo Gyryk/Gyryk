@@ -9,4 +9,7 @@
 - I work on projects of all sorts in various languages, and I'm always open to new opportunities for collaboration <br>
 - If you are more interested in my games projects you can find those on my [itch.io](https://gyryk.itch.io) page <br>
 
-### <p style="text-align: center;">[More about me!](www.gyryk.com) [My portfolio!](projects.gyryk.com)</p>
+### 
+<div align="center">
+    [More about me!](www.gyryk.com) &emsp;&emsp;&emsp;&emsp; [My portfolio!](projects.gyryk.com)
+</div>
