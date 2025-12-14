@@ -2,4 +2,4 @@
 - 👀 I’m interested in Computer Science as a whole :)
 - 💞️ I’m looking to collaborate on pretty much anything interesting, just send me a message
 - 📫 You can email me at gyryknotgirik@gmail.com
-- If you are more interested in games you can find my projects on [itch.io](https://gyryk.itch.io) <br>
+- 🎮 If you are more interested in games you can find my projects on [itch.io](https://gyryk.itch.io) <br>
