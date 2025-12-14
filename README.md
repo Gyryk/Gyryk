@@ -3,7 +3,3 @@
 - 💞️ I’m looking to collaborate on pretty much anything interesting, just send me a message
 - 📫 You can email me at gyryknotgirik@gmail.com
 - If you are more interested in games you can find my projects on [itch.io](https://gyryk.itch.io) <br>
-
-<div align="center" gap="10px" display="flex">
-    <h3><a href="http://www.gyryk.com">More about me!</a></h3><h3><a href="http://projects.gyryk.com">My projects!</a></h3>
-</div>
